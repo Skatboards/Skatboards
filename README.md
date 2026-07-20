@@ -15,6 +15,7 @@ a big motivation for me in comp sci is gaining a deep understanding of the techn
 - planning workshops <br/>
 - being an  academic weapon  🤓 <br/>
 - brainstorming next hackathon projects <br/>
+- working on projects <br/>
 
 </div>
 
